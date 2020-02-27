@@ -8,13 +8,13 @@ import string
 import xml.etree.ElementTree as ET
 ```
 
-Keywords 
+Add Keywords 
 
 ```bash
 list_a = ["hotel berlin", "hotel new york"]
 ```
 
-Output
+Get the Output as a list of keywords
 ```bash
 hotel berlin mitte
 hotel berlin berlin
