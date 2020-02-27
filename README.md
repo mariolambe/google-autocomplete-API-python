@@ -37,3 +37,6 @@ hotel new york angebote
 hotel new york aussicht
 hotel new york am central park
 .......
+```
+
+[Full python code](https://github.com/mariolambe/google-autocomplete-API-python/blob/master/googlesuggest-hotel.ipynb)
